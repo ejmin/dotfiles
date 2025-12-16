@@ -220,6 +220,8 @@ require('onedark').load()
 -- LSP config
 --
 
+-- Nerdtree settings
+g.NERDTreeShowHidden = 1
 
 -- hardtime
 --require("hardtime").setup()
